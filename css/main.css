@@ -970,7 +970,6 @@ nav li.active a {
   transform: rotate(0deg);
   transition: .5s ease-in-out;
   cursor: pointer;
-  /*   border:1px solid red; */
 }
 
 #nav-icon span {
@@ -984,7 +983,6 @@ nav li.active a {
   left: 0;
   transform: rotate(0deg);
   transition: .25s ease-in-out;
-  /*   border:4px solid black; */
 }
 
 #nav-icon {
